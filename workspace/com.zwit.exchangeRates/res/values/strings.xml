@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, menusActivity!</string>
+    <string name="app_name">com.zwit.menus</string>
+    <color name="myColor">#3355CC</color>
+    <string name="euro">to Euro</string>
+    <string name="dolar">to Dolar</string>
+    <string name="calc">Exchange ratio</string>
+    <string name="myClickHandler">myclickhandler</string>
+    <string name="appName">Currency checker</string>
+    <string name="pound">to Pound</string>
+    <string name="frank">to Frank</string>
+</resources>

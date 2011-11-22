@@ -1,0 +1,6 @@
+#Sun Oct 16 22:55:47 CEST 2011
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true
+org.eclipse.help.ui.localSearch.master=true
+expression=regular expression

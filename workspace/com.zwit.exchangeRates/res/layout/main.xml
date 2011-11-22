@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" android:text="@string/appName"/>
+<EditText android:id="@+id/editText1" android:layout_height="wrap_content" android:layout_width="match_parent" android:inputType="numberDecimal|numberSigned">
+    <requestFocus></requestFocus>
+</EditText>
+<RadioButton android:id="@+id/radioButton1" android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="@string/dolar"></RadioButton>
+<RadioButton android:id="@+id/radioButton2" android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="@string/euro"></RadioButton>
+<RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/radioButton4" android:text="@string/pound"></RadioButton>
+<RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/radioButton3" android:text="@string/frank"></RadioButton>
+<Button android:id="@+id/button1" android:text="@string/calc" android:layout_height="wrap_content" android:layout_width="wrap_content" android:onClick="myClickHandler"></Button>
+<AutoCompleteTextView android:id="@+id/autoCompTextView1" android:text="AutoCompleteTextView" android:layout_width="match_parent" android:layout_height="wrap_content"></AutoCompleteTextView>
+</LinearLayout>

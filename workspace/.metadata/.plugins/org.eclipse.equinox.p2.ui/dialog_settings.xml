@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.equinox.internal.p2.ui.dialogs.InstallWizard.WizardSettings">
+		<item value="757" key="DIALOG_WIDTH"/>
+		<item value="-30" key="DIALOG_Y_ORIGIN"/>
+		<item value="134" key="DIALOG_X_ORIGIN"/>
+		<item value="622" key="DIALOG_HEIGHT"/>
+		<item value="1|Tahoma|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.equinox.internal.p2.ui.dialogs.UpdateWizard.ResolutionResultsPage">
+		<item value="800" key="ListSashWeight"/>
+		<item value="300" key="NameColumnWidth"/>
+		<item value="200" key="IDColumnWidth"/>
+		<item value="200" key="DetailsSashWeight"/>
+		<item value="100" key="VersionColumnWidth"/>
+	</section>
+	<section name="org.eclipse.equinox.internal.p2.ui.dialogs.UpdateWizard.SelectableIUsPage">
+		<item value="800" key="ListSashWeight"/>
+		<item value="300" key="NameColumnWidth"/>
+		<item value="200" key="IDColumnWidth"/>
+		<item value="200" key="DetailsSashWeight"/>
+		<item value="100" key="VersionColumnWidth"/>
+	</section>
+	<section name="org.eclipse.equinox.internal.p2.ui.dialogs.UpdateWizard.WizardSettings">
+		<item value="604" key="DIALOG_WIDTH"/>
+		<item value="154" key="DIALOG_Y_ORIGIN"/>
+		<item value="208" key="DIALOG_X_ORIGIN"/>
+		<item value="454" key="DIALOG_HEIGHT"/>
+		<item value="1|Tahoma|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+	</section>
+</section>
